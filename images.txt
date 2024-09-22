@@ -1,9 +1,3 @@
-fogforest/yesplaymusic
-wangbinxingkong/fast
-whyour/qinglong:2.10.13
-portainer/pause
-xhofe/alist
-portainer/portainer
-portainer/portainer-ce
-jyhking/onecloud:1.2
-johngong/baidunetdisk
+wangbinxingkong/fast --platform armhf
+whyour/qinglong:2.10.13 --platform armhf
+jyhking/onecloud:1.1 --platform armhf
