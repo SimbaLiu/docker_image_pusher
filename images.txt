@@ -1,3 +1,2 @@
-wangbinxingkong/fast --platform armhf
 whyour/qinglong:2.10.13 --platform armhf
 jyhking/onecloud:1.1 --platform armhf
