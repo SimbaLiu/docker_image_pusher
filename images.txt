@@ -1,4 +1,5 @@
---platform=linux/armhf whyour/qinglong:2.10.13
---platform=linux/armhf jyhking/onecloud:1.1
---platform=linux/armhf wangbinxingkong/fast
---platform=linux/armhf whyour/qinglong:2.17.11
+#--platform=linux/armhf whyour/qinglong:2.10.13
+#--platform=linux/armhf jyhking/onecloud:1.1
+#--platform=linux/armhf wangbinxingkong/fast
+#--platform=linux/armhf whyour/qinglong:2.17.11
+whyour/qinglong
